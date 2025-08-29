@@ -14,3 +14,5 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bf
  - номер сетевой карты
    [https://github.com/selecitevww/MDK555-FOR-RUS-UA/blob/main/mac-random.bat]
 
+После запустите random mac, mdk
+
